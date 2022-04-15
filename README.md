@@ -2,7 +2,7 @@
 <h5 align="center">
 </h5>
 <div align="center">
-  <a href="https://discord.com/users/946115914854694993" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/946115914854694993"></a>
+  <a href="https://discord.com/users/946115914854694993" title="Discord Account"><img src="https://images-ext-1.discordapp.net/external/0ySIO2JK-WJk0MokYqgxKJzzuQpOHE5PKoDq0YFfx-8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/946115914854694993/a3e5d878bd139b7aef51322e0b489989.png?width=462&height=4623"></a>
 </div>
 <br>
 <p align="center">
